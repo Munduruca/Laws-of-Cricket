@@ -11,6 +11,8 @@ If you think JAVA is complicated, you should be introduced to Cricket :)
 
 We all love it! ;)
 
+## Current Laws/Rules
+https://github.com/Munduruca/Laws-of-Cricket/commit/6df41ecc7097fb434ff751a7b4af4e2161515e7d
 
 ### My friends:
 Imran - https://github.com/ishahid
