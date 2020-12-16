@@ -5,8 +5,16 @@ Amazing Sport with interesting rules! I'm saving the versions over time
   - Store Cricket laws/rules. Old and the most recent ones 
   - Codify and explain to the rest of the planet how this game works.
 
-Star this repo to get the updates and collaborate at will. Bring your content. Feel free to make comments and questions.
+Star this repo to get the updates and collaborate at will. Bring your content! Feel free to make comments and questions.
 
 If you think JAVA is complicated, you should be introduced to Cricket :)
 
 We all love it! ;)
+
+
+### My friends:
+Imran - https://github.com/ishahid
+Bino - ...
+
+### More resources
+https://en.wikipedia.org/wiki/Laws_of_Cricket#:~:text=The%20Laws%20of%20Cricket%20is,Club%20(MCC)%20in%20London.
